@@ -1,0 +1,4 @@
+```
+# Supabase migrations
+supabase/migrations/*.sql
+```
